@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; }
+body { margin: 0; font: 17px/1.6 system-ui, sans-serif; background: Canvas; color: CanvasText; }
+main { max-width: 680px; margin: 0 auto; padding: 48px 16px; }
+h1 { line-height: 1.2; }
+h2 { font-size: 1.1em; margin-top: 2em; }
+a { color: #1a7f5a; }
